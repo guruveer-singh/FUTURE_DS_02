@@ -1,0 +1,14 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Temporary and test files
+test_layout.xlsx
+D?FUTURE_DS_01extracted/
+*.tmp
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+.env/

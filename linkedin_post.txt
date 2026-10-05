@@ -1,0 +1,30 @@
+🚀 Exciting Project Milestone: Customer Retention & Churn Analysis (Task 2 with Future Interns) 📊
+
+In subscription and recurring revenue businesses, acquiring a new customer is 5x to 7x more expensive than retaining an existing one. Reducing customer churn isn't just a vanity metric—it directly compounds recurring revenue, cash flow stability, and company valuation.
+
+As part of my Data Science & Analytics Internship with Future Interns, I completed an in-depth Customer Retention & Churn Analysis analyzing 7,043 subscriber accounts ($456.1K baseline MRR) to diagnose why customers leave and develop an actionable retention strategy.
+
+🔍 Core Questions Answered:
+1️⃣ Why are customers churning, and where is the greatest revenue leak?
+2️⃣ Which customer segments and contract types carry the highest attrition risk?
+3️⃣ Where in the customer lifecycle does attrition concentrate across tenure brackets?
+4️⃣ What high-impact interventions can leadership deploy to maximize retention?
+
+💡 Key Business Findings & Discoveries:
+📌 The Contract Duration Multiplier: Month-to-month contracts had an alarming 42.7% churn rate and drove 86.9% ($120.8K/mo) of all lost recurring revenue. Annual commitments reduced churn by up to 15x (down to 11.3% for 1-Year and 2.8% for 2-Year plans).
+📌 The "First 12 Months" Onboarding Cliff: Over 55.5% of all churn occurred during the first year of tenure (47.4% first-year churn rate). Attrition stabilized dramatically for accounts active past Month 24, highlighting early onboarding as the primary battlefield.
+📌 The Fiber Optic Support Paradox: Premium Fiber Optic subscribers ($91.50/mo avg) churned at 41.9% vs 19.0% for DSL. However, bundling Tech Support and Online Security slashed churn by 54% (down to 22.6%).
+📌 Payment Channel Friction: Subscribers paying via manual Electronic Check churned at 45.3% vs 15.2% for automated Credit Card. Auto-pay removes recurring friction and eliminates involuntary churn.
+📌 Compounding Customer Spend: Cumulative customer spend expanded by 18.8x from Year 1 ($275) to Year 6 ($5,180), proving that early retention creates massive compounding returns.
+
+🛠️ Tools & Deliverables:
+• Microsoft Excel: Designed an executive visual dashboard with KPI cards, native charts, tenure bracket tables, customer risk scoring, and 7,043 cleaned records.
+• Python (Pandas, NumPy, Matplotlib, Seaborn): Engineered automated data preprocessing, cross-sectional tenure curves, and statistical driver analysis.
+• Financial Modeling: Built an ROI sensitivity model showing that a 10% churn reduction preserves $166.9K in ARR and adds $1.33M+ in enterprise value.
+
+A big thank you to Future Interns for curating practical, real-world data analytics challenges!
+
+Check out the full repository and analysis deliverables here:
+🔗 GitHub: https://github.com/guruveer-singh/FUTURE_DS_01
+
+#DataScience #CustomerRetention #ChurnAnalysis #DataAnalytics #BusinessIntelligence #SaaS #Python #Excel #CohortAnalysis #FutureInterns #Internship

@@ -1,0 +1,101 @@
+Data Science & Analytics – Task 2 (2026)
+By Future Interns
+Customer Retention & Churn Analysis
+Data Science & Analytics – Task 2 (2026)
+🔍 About the Task
+In this real-world analytics task, you will work with customer and subscription data to understand why customers leave and what keeps them engaged.
+
+This type of analysis is core to SaaS companies, startups, and subscription-based businesses, where reducing customer churn directly improves revenue and growth.
+
+Your goal is to help business teams answer questions such as:
+
+Why are customers leaving the platform?
+Which customer segments are most likely to churn?
+How long do customers typically stay active?
+What actions can improve customer retention?
+This task reflects actual work done by data analysts in product, growth, and retention teams.
+
+✅ What You’ll Do
+As part of this task, you will:
+
+Clean and organize customer or subscription data
+Analyze:
+Churn rates and retention trends
+Customer cohorts (by signup month, plan, or region)
+Customer lifetime patterns
+Identify key retention drivers and churn reasons
+Present insights as if you were advising a real SaaS or subscription business
+🛠️ Tools You Can Use
+Choose the tools that best fit your analysis approach:
+
+Microsoft Excel – for data cleaning, cohort tables, and basic analysis
+Python (optional) – for advanced churn metrics and cohort calculations
+Power BI – for retention dashboards and business storytelling
+You may use one tool or a combination of tools, just like in real-world data analyst roles.
+
+🎯 Skills You’ll Gain
+By completing this task, you will develop highly in-demand skills such as:
+
+Customer retention & churn analysis
+Cohort analysis and segmentation
+Customer lifetime metrics
+Business-focused insight generation
+Data-driven decision making
+These skills are especially valuable in SaaS, fintech, edtech, and subscription businesses.
+
+📁 Dataset Guidance
+You may use any dataset that represents customer or subscription behavior and aligns with a real business retention problem.
+
+Recommended Datasets (Optional)
+📊 Telco Customer Churn Dataset (Kaggle)
+https://www.kaggle.com/datasets/blastchar/telco-customer-churn
+Widely used dataset with customer demographics, services, and churn status.
+📦 SaaS Subscription Churn Dataset (Kaggle)
+https://www.kaggle.com/datasets/andrewmvd/churn-dataset-for-telecom-companies
+Useful for cohort analysis, retention metrics, and churn prediction.
+📈 Customer Analytics Dataset
+https://www.kaggle.com/datasets/mkechinov/ecommerce-behavior-data-from-multi-category-store
+Good for analyzing user behavior and engagement patterns.
+⚠️ You are not limited to these datasets.
+You may also use your own, simulated, anonymized, or business-specific data as long as it reflects a real customer retention or churn scenario.
+
+💼 Real-World Tip (Important)
+To get maximum value from this task, think beyond datasets:
+
+Imagine you are advising a subscription app, online course platform, or software tool
+Ask: “If I were the founder, what would I want to know from this analysis?”
+Focus on actionable insights, not just charts
+This mindset helps you move from student-level analysis to job-ready analytics thinking.
+
+📤 Final Deliverable
+You are required to submit:
+
+A retention analysis dashboard or report
+Clear insights on:
+Churn patterns
+Retention drivers
+Customer lifetime trends
+Practical recommendations to help reduce customer churn
+Your submission should look like something you could confidently present to:
+
+A product manager
+A startup founder
+A business stakeholder
+🚀 Why This Task Matters
+This is not a practice exercise.
+
+Customer retention analytics is:
+
+One of the highest-impact areas in data science
+Widely used in real SaaS and tech companies
+A skill that directly connects analytics to revenue
+Completing this task prepares you for real analytics roles and freelance opportunities.
+
+📢 Showcase Your Work
+Once you complete this task:
+
+Upload your project to a public GitHub repository with proper documentation (README, files, dashboard links).
+Share a professional post on LinkedIn highlighting:
+What problem you worked on
+Key insights or outcomes
+Tools used and learnings
