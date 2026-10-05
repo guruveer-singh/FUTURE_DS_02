@@ -25,6 +25,6 @@ As part of my Data Science & Analytics Internship with Future Interns, I complet
 A big thank you to Future Interns for curating practical, real-world data analytics challenges!
 
 Check out the full repository and analysis deliverables here:
-🔗 GitHub: https://github.com/guruveer-singh/FUTURE_DS_01
+🔗 GitHub: https://github.com/guruveer-singh/FUTURE_DS_02
 
 #DataScience #CustomerRetention #ChurnAnalysis #DataAnalytics #BusinessIntelligence #SaaS #Python #Excel #CohortAnalysis #FutureInterns #Internship
